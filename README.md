@@ -1,2 +1,2 @@
-# inline-net
-WIP: Haskell/.Net interop via inline C# code in Haskell modules.
+# inline-clr
+WIP: Haskell/CLR(Common Language Runtime, .Net) interop via inline C# code in Haskell modules.
